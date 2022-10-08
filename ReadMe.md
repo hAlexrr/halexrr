@@ -1,5 +1,9 @@
 # 💫 About Me:
-Welcome to my profile \<br/>My name is Alex Rosales and I am currently 21 and trying to learn Full Stack Development\ <br/>Learning Circuit design is one of my biggest dreams as well!<br/>I am currently working on a discord bot using Javascript and Stock Market Watcher \<br/>using Python API with ReactJS Framework \<br/>I would like to learn more about how ReactJS, NextJS, APIs, C++, and programming \<br/>compilers to start writing my own language \<br/><br/>
+Welcome to my profile \
+My name is Alex Rosales and I am currently 21 and trying to learn Full Stack Development\ 
+Learning Circuit design is one of my biggest dreams as well!
+I am currently working on a discord bot using Javascript and Stock Market Watcher \<br/>using Python API with ReactJS Framework \<br/>I would like to learn more about how ReactJS, NextJS, APIs, C++, and programming \
+compilers to start writing my own language \
 
 
 ## 🌐 Socials:
